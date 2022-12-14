@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/2109
 import heapq
 # min heap 구조
 # 자식 노드가 부모 노드보다 작음

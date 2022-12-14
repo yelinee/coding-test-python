@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/1781
 # 2109번과 동일한 방식으로 풀이
 import heapq
 
