@@ -1,6 +1,2 @@
 ## 코딩테스트 알고리즘
-### 1. 그리디 알고리즘
-- 백준 2109번: 순회강연
- [문제](https://www.acmicpc.net/problem/2109) / [코드](https://github.com/yelinee/coding-test-python/blob/main/greedy/backjun_2109.py)
- - 백준 1781번: 컵라면
- [문제](https://www.acmicpc.net/problem/1781) / [코드](https://github.com/yelinee/coding-test-python/blob/main/greedy/backjun_1781.py)
+[문제 참고] 이것이 코딩 테스트다 with 파이썬 책, 백준
